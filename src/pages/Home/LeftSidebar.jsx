@@ -8,7 +8,7 @@ const LeftSidebar = () => {
     }, [])
     return (
         <div className='px-4'>
-            <div>
+            <div className='mt-6'>
                 <h1 className='text-2xl font-semibold'>Доставка</h1>
                 <div className='flex items-center'>
                     <img src={deliveryImg} />
