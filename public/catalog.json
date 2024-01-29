@@ -1,0 +1,127 @@
+[
+    {
+        "id" : "1",
+        "name" : "Холодные напитки",
+        "image" : "https://i.ibb.co/0r17sxB/200x200.png"
+    },
+    {
+        "id" : "2",
+        "name" : "Выпечка",
+        "image" : "https://i.ibb.co/2cQ2Gbq/second.png"
+    },
+    {
+        "id" : "3",
+        "name" : "Хот-доги",
+        "image" : "https://i.ibb.co/rbdZqR1/third.png"
+    },
+    {
+        "id" : "4",
+        "name" : "Красота и гигиена",
+        "image" : "https://i.ibb.co/Cndnjr2/4.png"
+    },
+    {
+        "id" : "5",
+        "name" : "Пицца",
+        "image" : "https://i.ibb.co/s2x8CJ0/5.png"
+    },
+    {
+        "id" : "6",
+        "name" : "Горячие напитки",
+        "image" : "https://i.ibb.co/GW9H0yx/6.png"
+    },
+    {
+        "id" : "7",
+        "name" : "Семечки, чипсы",
+        "image" : "https://i.ibb.co/6yY0CBy/7.png"
+    },
+    {
+        "id" : "8",
+        "name" : "Товары для быта",
+        "image" : "https://i.ibb.co/2gr8MTD/8.png"
+    },
+    {
+        "id" : "9",
+        "name" : "Сэндвичи",
+        "image" : "https://i.ibb.co/6Wd8xh6/9.png"
+    },
+    {
+        "id" : "10",
+        "name" : "Готовая еда",
+        "image" : "https://i.ibb.co/HTsdtQQ/10.png"
+    },
+    {
+        "id" : "11",
+        "name" : "Десерты",
+        "image" : "https://i.ibb.co/S7PXVLQ/11.png"
+    },
+    {
+        "id" : "12",
+        "name" : "Для детей",
+        "image" : "https://i.ibb.co/4gnzfqk/12.png"
+    },
+    {
+        "id" : "13",
+        "name" : "Жевательные резинки",
+        "image" : "https://i.ibb.co/RjQWCDK/13.png"
+    },
+    {
+        "id" : "14",
+        "name" : "Кондитерские изделия",
+        "image" : "https://i.ibb.co/zGxcHSg/14.png"
+    },
+    {
+        "id" : "15",
+        "name" : "Молочные продукты",
+        "image" : "https://i.ibb.co/kDsDNtF/15.png"
+    },
+    {
+        "id" : "16",
+        "name" : "Колбасы, сыры",
+        "image" : "https://i.ibb.co/3c33Vw0/16.png"
+    },
+    {
+        "id" : "17",
+        "name" : "Крупы, макароны",
+        "image" : "https://i.ibb.co/BNwJfGV/17.png"
+    },
+    {
+        "id" : "18",
+        "name" : "Для животных",
+        "image" : ""
+    },
+    {
+        "id" : "19",
+        "name" : "Медицинские товары",
+        "image" : "https://i.ibb.co/vXT3tD7/19.png.png"
+    },
+    {
+        "id" : "20",
+        "name" : "Горячие напитки",
+        "image" : "https://i.ibb.co/vXT3tD7/19.png"
+    },
+    {
+        "id" : "21",
+        "name" : "Автопринадлежности",
+        "image" : "https://i.ibb.co/ZVGXHDC/21.png"
+    },
+    {
+        "id" : "22",
+        "name" : "Игрушки",
+        "image" : "https://i.ibb.co/fCkfHnJ/22.png"
+    },
+    {
+        "id" : "23",
+        "name" : "Зарядные устройства",
+        "image" : "https://i.ibb.co/4thPzDF/23.png"
+    },
+    {
+        "id" : "24",
+        "name" : "Готовая еда",
+        "image" : "https://i.ibb.co/r5Y62VT/24.png"
+    },
+    {
+        "id" : "25",
+        "name" : "Дом, дача, отдых",
+        "image" : "https://i.ibb.co/s94BMxd/25.png"
+    }
+]
