@@ -1,0 +1,45 @@
+[
+    {
+        "id" : "1",
+        "name" : "Круассан",
+        "price" : "550",
+        "image" : "https://i.ibb.co/YRXCCpK/1.jpg",
+        "weight" : "1 l"
+    },
+    {
+        "id" : "2",
+        "name" : "Пончик c",
+        "price" : "550",
+        "image" : "https://i.ibb.co/8m4TyN1/2.jpg",
+        "weight" : "1.5 l"
+    },
+    {
+        "id" : "3",
+        "name" : "Круассан ",
+        "price" : "400",
+        "image" : "https://i.ibb.co/syFNmJW/5.jpg",
+        "weight" : "450 ml"
+    },
+    {
+        "id" : "4",
+        "name" : "Печенье Американер",
+        "price" : "400",
+        "image" : "https://i.ibb.co/vqSBDtJ/4.jpg",
+        "weight" : "1 l"
+    },
+    {
+        "id" : "5",
+        "name" : "Пончик Панна",
+        "price" : "550",
+        "image" : "https://i.ibb.co/X2nsPHG/3.jpg",
+        "weight" : "450 ml"
+    },
+    {
+        "id" : "6",
+        "name" : "Пончик кусочками",
+        "price" : "550",
+        "image" : "https://i.ibb.co/t4wz3DV/6.jpg",
+        "weight" : "1 l"
+    }
+    
+]

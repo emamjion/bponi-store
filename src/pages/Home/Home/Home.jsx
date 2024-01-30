@@ -3,6 +3,9 @@ import Footer from '../../../Layout/Footer';
 import LeftSidebar from '../LeftSidebar';
 import Drinks from '../Drinks';
 import RightSidebar from './RightSidebar';
+import Pastries from '../Pastries';
+import HotDogs from '../HotDogs';
+import Hygiene from './Hygiene';
 
 const Home = () => {
     return (
@@ -15,6 +18,9 @@ const Home = () => {
                 </div>
                 <div className='flex-[4]'>
                     <Drinks/>
+                    <Pastries/>
+                    <HotDogs/>
+                    <Hygiene/>
                 </div>
                 <div className='flex-[1.5] relative p-4 bg-[#fff] rounded-2xl mr-4'>
                     <div className='sticky top-10 h-[90vh]'>

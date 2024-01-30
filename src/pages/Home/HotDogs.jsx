@@ -2,30 +2,30 @@ import React, { useEffect, useState } from 'react';
 import { GoPlus } from 'react-icons/go';
 import { LiaAngleRightSolid } from "react-icons/lia";
 
-const Drinks = () => {
-    const [drinks, setDrinks] = useState([]);
+const HotDogs = () => {
+    const [hotdogs, setHotdogs] = useState([]);
     useEffect(() => {
-        fetch('colddrinks.json').then(response => response.json()).then(data => setDrinks(data))
+        fetch('hotdogs.json').then(response => response.json()).then(data => setHotdogs(data))
     }, [])
     return (
         <div className='mt-12'>
-            <div className='flex items-center justify-between'>
+            <div className='md:flex items-center justify-between'>
                 <div className='flex items-center gap-2'>
-                    <img src="https://i.ibb.co/0r17sxB/200x200.png" className="w-12" />
-                    <h1 className='font-bold text-2xl'>Cold Drinks</h1>
+                    <img src="https://i.ibb.co/2cQ2Gbq/second.png" className="w-12" />
+                    <h1 className='font-bold text-2xl'>Hot Dogs</h1>
                 </div>
                 <button className='flex items-center gap-0.5 px-4 py-2 hover:bg-[#E7E6E4] rounded-xl duration-300'>All <span></span><LiaAngleRightSolid /></button>
             </div>
             <div className='mt-6 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-x-2 gap-y-6'>
                 {
-                    drinks.map(drink => <div
-                        key={drink.id}
+                    hotdogs.map(hd => <div
+                        key={hd.id}
                     >
                         <div className='bg-[#FFFFFF] p-3 rounded-3xl h-full'>
-                            <img src={drink.image} />
+                            <img src={hd.image} />
                             <div>
-                                <h2 className='text-2xl font-medium my-3'>{drink.price} $</h2>
-                                <h4 className=''>{drink.name}</h4>
+                                <h2 className='text-2xl font-medium my-3'>{hd.price} $</h2>
+                                <h4 className=''>{hd.name}</h4>
                             </div>
                             <div className='text-center mt-4 flex items-center justify-center relative'>
                                 {/* TODO: Button will be fixed with bottom corner */}
@@ -42,4 +42,4 @@ const Drinks = () => {
     );
 };
 
-export default Drinks;
+export default HotDogs;
